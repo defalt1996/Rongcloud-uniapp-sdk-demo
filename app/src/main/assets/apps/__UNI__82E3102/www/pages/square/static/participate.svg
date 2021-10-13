@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="310px" height="88px" viewBox="0 0 310 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 9</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="38.4944181%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.479348776" offset="0%"></stop>
+            <stop stop-color="#FFBF1E" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="页面-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="话题" transform="translate(-220.000000, -1441.000000)">
+            <g id="编组-9" transform="translate(220.000000, 1441.000000)">
+                <rect id="矩形" fill="#FD6843" x="0" y="0" width="310" height="88" rx="44"></rect>
+                <rect id="矩形" fill="url(#linearGradient-1)" filter="url(#filter-2)" x="7" y="3" width="295" height="79" rx="39.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

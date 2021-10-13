@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 3</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="主页" transform="translate(-425.000000, -436.000000)">
+            <g id="编组-5" transform="translate(287.000000, 435.000000)">
+                <g id="编组-3" transform="translate(138.000000, 1.000000)">
+                    <circle id="椭圆形" stroke-opacity="0.446159309" stroke="#3281FF" stroke-width="1.5" fill="#3281FF" cx="20" cy="20" r="18.75"></circle>
+                    <g filter="url(#filter-1)" id="女性_female">
+                        <g transform="translate(19.138729, 21.598015) rotate(-180.000000) translate(-19.138729, -21.598015) translate(2.638729, 5.098015)">
+                            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0.333333333" y="0.666666667" width="32" height="32"></rect>
+                            <g id="编组" transform="translate(14.146447, 18.353553) rotate(-135.000000) translate(-14.146447, -18.353553) translate(6.646447, 6.853553)" stroke="#FF3284" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+                                <g id="编组-4" transform="translate(0.000000, -0.000000)">
+                                    <path d="M12.518783,10.2193122 C11.1917107,8.89223988 9.35837739,8.07142857 7.33333334,8.07142857 C3.28324517,8.07142857 -4.54747351e-13,11.3546737 -4.54747351e-13,15.4047619 C-4.54747351e-13,19.4548501 3.28324517,22.7380952 7.33333334,22.7380952 C11.3834215,22.7380952 14.6666667,19.4548501 14.6666667,15.4047619" id="路径"></path>
+                                    <line x1="7.41868857" y1="8.07142857" x2="7.41868857" y2="1.2455499" id="路径" fill="#D8D8D8"></line>
+                                    <polyline id="路径" fill="#D8D8D8" points="3.55661515 3.33113665 7.63742233 0.434006244 11.413758 3.33113665"></polyline>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

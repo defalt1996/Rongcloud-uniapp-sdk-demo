@@ -1,0 +1,81 @@
+:root {
+	--height88: 88rpx;
+	--mainColor: #fd6843;
+}
+
+* {
+	font-family: PingFangSC-Regular, PingFang SC;
+}
+.flex {
+	display: flex;
+}
+
+.flexAlignBaseline {
+	display: flex;
+	align-items: baseline;
+}
+
+.flexAlignCenter {
+	display: flex;
+	align-items: center;
+}
+
+.flexAlignFlexEnd {
+	display: flex;
+	align-items: flex-end;
+}
+
+.flexAlignFlexStart {
+	display: flex;
+	align-items: flex-start;
+}
+
+.flex1 {
+	flex: 1;
+}
+
+.flexs {
+	flex-shrink: 0;
+}
+
+.oneRows,
+.twoRows,
+.threeRows {
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.twoRows,
+.threeRows {
+	text-overflow: -o-ellipsis-lastline;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+}
+
+.oneRows {
+	white-space: nowrap;
+}
+
+.twoRows {
+	-webkit-line-clamp: 2;
+}
+
+.threeRows {
+	-webkit-line-clamp: 3;
+}
+
+.avatar100 {
+	width: 100rpx;
+	height: 100rpx;
+	border-radius: 50%;
+
+	image {
+		width: 100%;
+		height: 100%;
+		border-radius: 50%;
+	}
+}
+
+.disable {
+	pointer-events: none;
+}

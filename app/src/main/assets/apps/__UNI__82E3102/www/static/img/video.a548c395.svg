@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 5</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="80" height="80"></rect>
+        <linearGradient x1="31.1551591%" y1="73.6392653%" x2="-6.86660457%" y2="44.2413993%" id="linearGradient-3">
+            <stop stop-color="#598AFF" stop-opacity="0.962248689" offset="0%"></stop>
+            <stop stop-color="#364DFF" stop-opacity="0.926190997" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="37.860408%" x2="0%" y2="67.4836006%" id="linearGradient-4">
+            <stop stop-color="#598AFF" stop-opacity="0.962248689" offset="0%"></stop>
+            <stop stop-color="#364DFF" stop-opacity="0.926190997" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="发布" transform="translate(-179.000000, -1243.000000)">
+            <g id="编组-6" transform="translate(114.000000, 1203.000000)">
+                <g id="编组-5" transform="translate(65.000000, 40.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="蒙版"></g>
+                    <g mask="url(#mask-2)">
+                        <g transform="translate(39.000000, 47.500000) rotate(25.000000) translate(-39.000000, -47.500000) translate(-4.000000, 11.000000)">
+                            <path d="M44.2966667,33.8014318 L68.482,47.0162311 C73.2242223,49.6119953 79.152,46.3082954 79.152,40.8807885 L79.152,14.2152114 C79.152,8.78770453 73.2242223,5.48400477 68.482,8.07976885 L44.2966667,21.2945682 C39.5544444,24.1263109 39.5544444,31.2056677 44.2966667,33.8014318 L44.2966667,33.8014318 Z" id="路径" fill="#5F3CFF" fill-rule="nonzero" transform="translate(59.946000, 27.548000) rotate(-385.000000) translate(-59.946000, -27.548000) "></path>
+                            <circle id="椭圆形" fill="url(#linearGradient-3)" fill-rule="evenodd" cx="31.6437798" cy="11.6433197" r="11.64"></circle>
+                            <circle id="椭圆形备份" fill="url(#linearGradient-3)" fill-rule="evenodd" cx="14.1080215" cy="18.8800606" r="8.148"></circle>
+                            <rect id="形状结合" fill="url(#linearGradient-4)" fill-rule="evenodd" transform="translate(37.248000, 38.024000) rotate(-25.000000) translate(-37.248000, -38.024000) " x="8.148" y="12.998" width="58.2" height="50.052" rx="11.64"></rect>
+                        </g>
+                    </g>
+                    <circle id="椭圆形" fill="#FFFFFF" mask="url(#mask-2)" cx="49.5" cy="36.5" r="8.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
